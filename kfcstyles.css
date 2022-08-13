@@ -1,0 +1,323 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-main{
+    width: 100vw;
+    height: 103px;
+    background-color:#fff;
+    position: relative;
+}
+.navbar-sign-in{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 1000px;
+    margin-right: 75px;
+    width: 208.69px;
+    height: 51.19px;
+    
+}
+.navbar-account{
+    float: left;
+    height: 100%;
+    width: 20px;
+    
+}
+.navbar-signin{
+    float: left;
+    height: 100%;
+    width:95.5px;
+    
+}
+#sign-in{
+    text-decoration: none;
+    display: block;
+    margin: 17px 20px;
+    color: black;
+    font-weight: bold;
+}
+.coin{
+    float: left;
+    height: 100%;
+    width: 20px;
+    
+}
+.navbar-logo-kfc{
+    display: block;
+    float: left;
+    margin-top: 40px;
+    margin-left: 132px;
+
+}
+.navebar-link1{
+    display: block;
+    float: left;
+    text-decoration: none;
+    margin-top: 43px;
+        margin-left: 40px;
+    font-weight: bold;
+    color: black;
+}
+.banner-1{
+    width: 100vw;
+    height: 68px;
+    background-color: #202124;
+    
+}
+.banner-1-sec-1{
+    width: 600px;
+    height: 54.34px;
+    background-color: #202124;
+    margin:7px 400px;
+}
+.banner-1-sec-1-1 {
+    float: left;
+    width: 455px;
+    height: 100%;
+    background-color:#202124;
+    padding-top: 20px;
+}
+.banner-1-sec-1-2 {
+    margin-top: 12px;
+    width: 145px;
+    height: 80%;
+    background-color:#e4002b;
+    float: left;
+    border-radius: 90px;
+}
+.start-button{
+display: block;
+margin-top: 12px;
+    margin-left: 28px;
+    text-decoration: none;
+    font-weight: bold;
+    color:#fff;
+}
+.h5-one{
+    
+    font-family: "National 2 Condensed";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16.5px;
+        line-height: 20px;
+        letter-spacing: .5px;
+        text-transform: uppercase;
+        color: #fff;
+        margin: 6px;;
+
+}
+.banner-2{
+    width: 100vw;
+    height: 137px;
+    background-color:#f8f7f5;
+    align-content: center;
+    
+}
+.redlines-1{
+    margin-left: 180px;
+    width: 40px;
+    height: 20px;
+    background-color: #fff;
+}
+.redlinestripes{
+    float: left;
+        height: 100%;
+        width: 20%;
+        background-color: red;
+        margin-left: 6px;
+}
+.h1-one{
+    padding-top: 35px;
+    margin-left: 180px;
+}
+.container{
+    width: 100vw;
+    height: 730px;
+    background-color: #fff;
+}
+
+.container-sub-1{
+height: 100%;
+width: 80vw;
+background-color: #fff;
+margin-left: 150px;
+}
+.container-sub-1-1{
+    width: 100%;
+    height: 198px;
+    background-color:#fff;
+}
+.container-sub-1-1-1{
+    float: left;
+    height: 100%;
+    width: 300px;
+    background-color: #fff;
+}
+.h2-one{
+padding-top: 100px;
+}
+.container-sub-1-1-2{
+    float: left;
+ border: 2px;
+ border-bottom-style: solid;
+ 
+height: 58%;
+width: 700px;
+background-color: #fff;
+}
+.container-sub-1-2 {
+    float: left;
+    margin: 10px;
+    width: 243.14px;
+    height: 243.14px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.tile-text{
+    text-align: center;
+    margin-top: 10px;
+        font-family: "National 2 Condensed";
+        font-style: normal;
+        font-weight: 700;
+      
+        line-height: 25px;
+        letter-spacing: .5px;
+        color: #202124;
+        bottom: 7%;
+}
+.footermain{
+    width: 100vw;
+    height: 850px;
+    background-color: #202124;
+    position: relative;
+}
+.side-button1{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 80px;
+    width: 50px;
+    height: 50px;
+    background-color:#fff;
+    opacity: 0.5;
+    border-radius: 50%;
+}
+.side-button2 {
+    
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 1190px;
+    width: 50px;
+    height: 50px;
+    background-color:#fff ;
+    opacity: 0.5;
+    border-radius: 50%;
+}
+.stripes-logo{
+    height: 42px;
+    width: 80px;
+    background-color: #202124;
+    margin-left: 200px;
+    
+}
+.stripe{
+    float: left;
+    height: 100%;
+    width: 20%;
+    background-color: red;
+    margin-left: 16px;
+    
+   
+}
+.h2-two{
+    color: #fff;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+.footer-sub-1{
+    height: 398px;
+        width: 75vw;
+        background-color:#202124;
+        margin-left: 150px;
+}
+.footer-sub-1-div{
+    float: left;
+  margin-left: 25px;
+border-radius: 10px;
+    height: 100%;
+    width: 310px;
+    background-color: #fff;
+}
+.offer-img-descr{
+    text-align: center;
+}
+.footer-sub-1-div-1{
+    float: left;
+    width: 50%;
+    height: 50px;
+    margin-bottom: 0;
+    background-color: #fff;
+
+}
+.details-link{
+    display: block;
+   padding-top: 15px;
+    color: black;
+}
+.redeem-button{
+    float: left;
+    width: 45%;
+    height: 50px;
+    border:solid 2px #202124 ;
+    border-radius: 30px;
+    background-color: #fff;
+}
+.footer-sec{
+    width: 100vw;
+    height: 315px;
+    background-color:#202124;
+}
+.footer-sec-1{
+    width: 1175px;
+    height: 156px;
+    margin-left: 90px;
+    
+}
+.footer-logo{
+    float: left;
+    height: 100%;
+    width: 60px;
+   
+}
+.footer-list{
+    float: left;
+    height: 100%;
+    width: 122.83px;
+ 
+}
+h5{
+    color: #fff;
+}
+.download{
+    float: left;
+    margin-left: 50px;
+    height: 100%;
+    width: 300px;
+    
+}
+.footer-bottom{
+    width: 1175px;
+    height: 34px;
+   
+    margin-left: 78px;
+    margin-top: 90px;
+}
+.footer-bottom1{
+    width: 60%;
+    height: 100%;
+   
+}
+.copyright{
+    text-align: end;
+    color: ghostwhite;
+}
