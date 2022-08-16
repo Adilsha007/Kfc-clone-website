@@ -1,13 +1,16 @@
-*{
+*{font-family: National 2 Condensed;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 .navbar-main{
+    position: fixed;
     width: 100vw;
     height: 103px;
     background-color:#fff;
-    position: relative;
+    margin-bottom: 300px;
+    z-index: 5;
+
 }
 .navbar-sign-in{
     position: absolute;
@@ -60,10 +63,12 @@
     color: black;
 }
 .banner-1{
+    
     width: 100vw;
     height: 68px;
     background-color: #202124;
-    
+    position: absolute;
+    margin-top: 100px;
 }
 .banner-1-sec-1{
     width: 600px;
@@ -79,7 +84,7 @@
     padding-top: 20px;
 }
 .banner-1-sec-1-2 {
-    margin-top: 12px;
+    margin-top: 8px;
     width: 145px;
     height: 80%;
     background-color:#e4002b;
@@ -104,14 +109,14 @@ margin-top: 12px;
         letter-spacing: .5px;
         text-transform: uppercase;
         color: #fff;
-        margin: 6px;;
+        margin: 6px;
 
 }
 .banner-2{
     width: 100vw;
     height: 137px;
     background-color:#f8f7f5;
-    align-content: center;
+    padding-top: 168px;
     
 }
 .redlines-1{
@@ -135,6 +140,7 @@ margin-top: 12px;
     width: 100vw;
     height: 730px;
     background-color: #fff;
+    margin-top: 100px;
 }
 
 .container-sub-1{
@@ -160,7 +166,8 @@ padding-top: 100px;
 .container-sub-1-1-2{
     float: left;
  border: 2px;
- border-bottom-style: solid;
+ border-color: rgba(128, 128, 128, 0.322);
+ border-bottom-style: solid ;
  
 height: 58%;
 width: 700px;
@@ -313,9 +320,17 @@ h5{
     margin-top: 90px;
 }
 .footer-bottom1{
+    float: left;
     width: 60%;
     height: 100%;
    
+}
+.footer-bottom2{
+    float: left;
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
 }
 .copyright{
     text-align: end;
